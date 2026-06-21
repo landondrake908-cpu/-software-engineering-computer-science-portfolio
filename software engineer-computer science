@@ -1,0 +1,63 @@
+ -software-engineering-computer-science-portfolio
+Personal portfolio showcasing game development and software engineering work across Godot, Panda3D, Stride, and multiplayer/physics systems.
+ Landon Drake — Portfolio
+
+
+
+Software Engineer · Game Developer · Five Engines, One Workflow
+
+
+
+What this is
+
+
+
+A self-contained, single-file portfolio site for Landon Drake — a software
+
+engineer with hands-on game development experience across Godot, Defold,
+
+Solar2D, Panda3D, and Stride (Xenko). Built to make the case that someone
+
+who works across multiple engines and the systems behind them (AI, backend,
+
+physics) is more versatile than a single-engine specialist.
+
+
+
+
+
+
+
+What's inside
+
+
+
+SectionWhat it showsHeroName, role, and a 5-engine "build matrix" status gridSelected work5 project cards  platformer, open world, multiplayer, NPC AI, physicsCapabilitiesGame dev / AI & systems / software engineering, in 3 columnsAboutBio + quick-glance stats (engines, education, location)Contact Email, LinkedIn, GitHub
+
+
+
+The 5 featured projects
+
+
+
+
+
+AI-Powered Platform Adventure — Godot · 2D platformer with enemy AI,
+
+physics movement, save/load, checkpoints
+
+3D Open World Exploration — Panda3D · terrain generation, NPCs,
+
+day/night cycle, quest system
+
+Multiplayer Battle Arena — Python/Flask · matchmaking, auth,
+
+WebSockets, leaderboards
+
+Intelligent NPC AI Simulator — Stride · behavior trees, finite state
+
+machines, A pathfinding
+
+Physics Simulation Engine — C++/OpenGL · rigid body dynamics,
+
+collision detection, particle systems
